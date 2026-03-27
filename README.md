@@ -87,7 +87,3 @@ This app allows users to upload their dataset, train multiple ML models, visuali
 6. Explore feature importance & SHAP
 7. Optimize inputs
 8. Make predictions
-
----
-
-## 📂 Project Structure
